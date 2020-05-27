@@ -58,3 +58,8 @@ l. int32_t findStreet (char street[], const BUSINESS3 business[], uint32_t count
 // returns the index of the first entry in the array (business) containing count
 entries which matches the requested street. If the name is not found, return a
 value of -1.
+
+Arm Assembly Compile instructions on Raspberry Pi b+ model
+
+->gcc -o test hw3.c hw3.s 
+->./test
