@@ -1,4 +1,4 @@
-Write assembly functions that implement the following C functions:
+Assembly functions that implement the following C functions:
 
 a. int32_t sumS32(const int32_t x[], int32_t count)
 // returns sum of the values in the array (x) containing count entries, modulo
