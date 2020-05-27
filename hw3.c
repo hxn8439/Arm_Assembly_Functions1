@@ -76,7 +76,7 @@ int main ()
 	int i;
 	char strOut[21];
 	strOut[21] = '\0';
-	const char strIn[] = "Wherearemyniggasat?....";
+	const char strIn[] = "WhereareyouPluto?....";
 	uint32_t length = 20;
 	printf("part d.");
 	printf("\n");
@@ -103,7 +103,7 @@ int main ()
 	
 	
 	//f. countMatches
-	const char strMatch[] = "nigga";
+	const char strMatch[] = "Pluto";
 	
 	printf("part f.");
 	printf("\n");
